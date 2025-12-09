@@ -18,7 +18,7 @@ print("hello from day1")
 animal1 = "TIm Cheese"
 animal2 = "Trallero Tralala"
 animal3 = "Tripi Tropi"
-
+animal4 = ""
 ########################################################################
 # Task 4:
 
