@@ -5,7 +5,7 @@
 ########################################################################
 # Task 1:
 for i in range(100):
-    print("I'll not sling mud at my friends again")
+    print("I will not stuff mud into my friend's mouth again")
 ########################################################################
 # Task 2:
 
