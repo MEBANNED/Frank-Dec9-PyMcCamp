@@ -31,16 +31,17 @@
 
 ########################################################################
 # Task 6 of 7
-def selfIntro():
-    print("My name is Frank")
-    print("I am 9 years old")
-    print("I attend Townsville Primary School")
-    print("If I had $2,000, I would save it")
-selfIntro()
+# def selfIntro():
+#     print("My name is Frank")
+#     print("I am 9 years old")
+#     print("I attend Townsville Primary School")
+#     print("If I had $2,000, I would save it")
+# selfIntro()
 ########################################################################
 # Task 7:
-
-
+def addition(num1, num2):
+    print(num1 + num2)
+addition(6, 7)
 
 ########################################################################
 # Additional exercises:
