@@ -15,8 +15,8 @@ print("I attend townsville primary school")
 print("if I had $2,000 I would save it")
 ########################################################################
 # Task 3:
-animal1 = input("What is the animal")
-
+animal1 = "TIm Cheese"
+animal2
 
 
 ########################################################################
