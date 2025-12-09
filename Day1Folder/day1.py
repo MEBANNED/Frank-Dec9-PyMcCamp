@@ -11,7 +11,7 @@ print("hello from day1")
 # Task 2:
 print("My name is Frank Chen")
 print("I am nine years old")
-print("")
+print("I attend townsville primary school")
 
 ########################################################################
 # Task 3:
