@@ -26,8 +26,8 @@
 
 ########################################################################
 # Task 5ive:
-name = "Frank"
-print('My name is ' + name + ", I'm gay")
+# name = "Frank"
+# print('My name is ' + name + ", I'm gay")
 
 ########################################################################
 # Task 6 of 7
@@ -35,7 +35,7 @@ def selfIntro():
     print("My name is Frank")
     print("I am 9 years old")
     print("I attend Townsville Primary School")
-    
+    print
 ########################################################################
 # Task 7:
 
