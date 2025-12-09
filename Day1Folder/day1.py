@@ -20,7 +20,7 @@ animal2 = "Trallero Tralala"
 animal3 = "Tripi Tropi"
 print(animal1)
 print(animal2)
-print()
+print(animal3)
 ########################################################################
 # Task 4:
 
