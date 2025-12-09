@@ -9,10 +9,10 @@ print("hello from day1")
 
 ########################################################################
 # Task 2:
-print("My name is Frank Chen")
-print("I am nine years old")
-print("I attend townsville primary school")
-print("if I had $2,000 I would save it")
+# print("My name is Frank Chen")
+# print("I am nine years old")
+# print("I attend townsville primary school")
+# print("if I had $2,000 I would save it")
 ########################################################################
 # Task 3:
 animal1 = "TIm Cheese"
