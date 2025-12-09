@@ -19,6 +19,7 @@ animal1 = "TIm Cheese"
 animal2 = "Trallero Tralala"
 animal3 = "Tripi Tropi"
 print(animal1)
+print(animal2)
 ########################################################################
 # Task 4:
 
