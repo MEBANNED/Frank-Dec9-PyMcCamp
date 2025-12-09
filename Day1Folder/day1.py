@@ -34,6 +34,7 @@ print('My name is ' + name + ", I'm gay")
 def selfIntro():
     print("My name is Frank")
     print("I am 9 years old")
+    print()
 ########################################################################
 # Task 7:
 
