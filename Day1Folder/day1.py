@@ -35,7 +35,8 @@ def selfIntro():
     print("My name is Frank")
     print("I am 9 years old")
     print("I attend Townsville Primary School")
-    print("If I had $2,000, I could ")
+    print("If I had $2,000, I would save it")
+
 ########################################################################
 # Task 7:
 
