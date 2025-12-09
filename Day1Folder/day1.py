@@ -36,7 +36,7 @@ def selfIntro():
     print("I am 9 years old")
     print("I attend Townsville Primary School")
     print("If I had $2,000, I would save it")
-
+selfIntro()
 ########################################################################
 # Task 7:
 
