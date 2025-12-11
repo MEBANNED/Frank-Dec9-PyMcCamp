@@ -11,8 +11,8 @@ print("hello from day3")
 ########################################################################
 # Task 2:
 def calculator(num1, num2):
-    num1 = input("What is your first number")
-    num2 = input("what is your ")
+    num1 = input("What is your 1st number")
+    num2 = input("what is your 2nd")
 
 
 ########################################################################
