@@ -28,7 +28,10 @@ print("hello from day3")
 # Task 5:
 person1 = input("GImme a random number")
 person2 = input("gimme another one")
-ans = int(person1) 
+if int(person1) > int(person2):
+    print("your first number is larger")
+else:
+    print("ur second number is larger")
 ########################################################################
 # Task 6:
 
