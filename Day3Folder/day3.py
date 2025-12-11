@@ -13,7 +13,6 @@ print("hello from day3")
 num1 = input("What is your 1st number")
 num2 = input("what is your 2nd number")
 print(num1 + num2)
-calculator()
 ########################################################################
 # Task 3:
 
