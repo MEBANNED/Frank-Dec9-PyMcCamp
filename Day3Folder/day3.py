@@ -4,8 +4,7 @@ print("hello from day3")
 
 ########################################################################
 # Task 1:
-myNAME = input("What's your name? ")
-print("hello " + myNAME)
+
 
 
 
