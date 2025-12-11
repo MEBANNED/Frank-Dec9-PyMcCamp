@@ -28,7 +28,7 @@ print("hello from day3")
 # Task 5:
 person1 = input("GImme a random number")
 person2 = input("gimme another one")
-
+ans = int(person1) 
 ########################################################################
 # Task 6:
 
