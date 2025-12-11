@@ -12,7 +12,7 @@ print("hello from day3")
 # Task 2:
 def calculator(num1, num2):
     num1 = input("What is your first number")
-    num2 = input )""
+    num2 = input("what is your ")
 
 
 ########################################################################
