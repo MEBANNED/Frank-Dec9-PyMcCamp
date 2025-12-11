@@ -26,8 +26,8 @@ print("hello from day3")
 
 ########################################################################
 # Task 5:
-input("GImme a random number")
-
+person1 = input("GImme a random number")
+input("gimme another one")
 
 ########################################################################
 # Task 6:
