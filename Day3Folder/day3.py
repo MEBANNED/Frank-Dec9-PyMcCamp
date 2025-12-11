@@ -10,10 +10,10 @@ print("hello from day3")
 # print(title + " " +name + " commands you to " + command )
 ########################################################################
 # Task 2:
-num1 = input("What is your 1st number")
-num2 = input("what is your 2nd number")
-ans = int(num1) + int(num2)
-print(ans)
+# num1 = input("What is your 1st number")
+# num2 = input("what is your 2nd number")
+# ans = int(num1) + int(num2)
+# print(ans)
 ########################################################################
 # Task 3:
 
