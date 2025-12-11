@@ -44,4 +44,4 @@ print("hello from day3")
 
 ########################################################################
 # Additional exercises:
-print
+print: ("github is bullshit")
