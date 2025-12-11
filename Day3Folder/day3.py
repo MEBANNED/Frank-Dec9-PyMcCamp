@@ -10,8 +10,8 @@ print("hello from day3")
 # print(title + " " +name + " commands you to " + command )
 ########################################################################
 # Task 2:
-def calculator():
-    num1 = input
+def calculator(num1, num2):
+    num1 = input()
 
 
 ########################################################################
